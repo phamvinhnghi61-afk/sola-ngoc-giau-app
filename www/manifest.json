@@ -1,0 +1,22 @@
+{
+  "name": "Solar Ngọc Giàu - Bán Hàng & POS",
+  "short_name": "Solar Ngọc Giàu",
+  "description": "Ứng dụng bán hàng, lập phiếu, báo giá điện mặt trời và quản lý kho của Solar Ngọc Giàu - Linh Kiện Pin Tháp Mười.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

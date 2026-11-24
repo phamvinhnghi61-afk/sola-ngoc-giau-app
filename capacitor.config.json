@@ -1,0 +1,8 @@
+{
+  "appId": "com.solarngocgiau.pos",
+  "appName": "Solar Ngọc Giàu",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
